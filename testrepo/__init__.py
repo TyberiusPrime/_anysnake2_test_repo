@@ -1,2 +1,2 @@
 import testrepo2
-__version__ =  "0.33"
+__version__ =  "0.66"

@@ -8,7 +8,7 @@ import re
 from setuptools import setup
 
 
-version = "0.33"
+version = "0.66"
 with open("README.rst", "rb") as f:
     long_descr = f.read().decode("utf-8")
 
