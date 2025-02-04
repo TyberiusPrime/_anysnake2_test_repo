@@ -24,4 +24,5 @@ setup(
     install_requires=[
         "testrepo2"
     ],
+    package_dir = {'testrepo': 'src'},
 )
